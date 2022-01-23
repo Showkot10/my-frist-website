@@ -264,7 +264,7 @@ body{
     
 }
 .content{
-    height: auto;
+    height: 100vh;
     width: 700px;
     margin-top: 1px;
 }
